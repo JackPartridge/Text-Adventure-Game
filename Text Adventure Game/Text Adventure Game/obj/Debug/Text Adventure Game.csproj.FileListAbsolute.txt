@@ -1,0 +1,6 @@
+F:\Documents\VS\Text Adventure Game\Text Adventure Game\obj\Debug\Text Adventure Game.csproj.CoreCompileInputs.cache
+F:\Documents\VS\Text Adventure Game\Text Adventure Game\bin\Debug\Text Adventure Game.exe.config
+F:\Documents\VS\Text Adventure Game\Text Adventure Game\bin\Debug\Text Adventure Game.exe
+F:\Documents\VS\Text Adventure Game\Text Adventure Game\bin\Debug\Text Adventure Game.pdb
+F:\Documents\VS\Text Adventure Game\Text Adventure Game\obj\Debug\Text Adventure Game.exe
+F:\Documents\VS\Text Adventure Game\Text Adventure Game\obj\Debug\Text Adventure Game.pdb
